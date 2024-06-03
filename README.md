@@ -26,7 +26,7 @@ GET YOUTUBE SUBSCRIBERS
 ## Introduction
 Get YouTube Subscribers is an Application that serves as a RESTful API created by using Mongodb in Node.js. It is designed to fetch all subscribers information related to YouTube channel subscribers. The primary technologies used to develop this application are Node.js and Express.js which are used to create API endpoint and manage HTTP request. Additionally, this application utilizes MongoDB as the database to store and manage subscribers data efficiently.
 
-![Get YT SUB](https://github.com/Abhi1o/GET-YOUTUBE-SUBSCRIBERS/assets/87490161/7e4f4776-cd79-4577-bb26-2ef06b30fa0a)
+
 
 ## Features
 Some features of this application :
